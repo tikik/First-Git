@@ -5,3 +5,5 @@ try:
 except ValueError:
     print('Your character was not a number, cannot do subtraction')
 print('Stop here. Thank you!')
+#Next is practice exam 2.
+#Exam 2 avail 10/21 to 11/7
