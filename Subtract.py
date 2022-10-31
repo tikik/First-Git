@@ -7,3 +7,4 @@ except ValueError:
 print('Stop here. Thank you!')
 #Next is practice exam 2.
 #Exam 2 avail 10/21 to 11/7
+#I need to work on the exam today otherwise it would be time consumoing during the week.
